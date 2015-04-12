@@ -1,5 +1,7 @@
 # Scopum
 
+Scopum has been created by [HackLab UPM Bq](http://hacklabupm.bq.com/doku.php?id=start) 
+
 Original concept by [JavierIH](https://github.com/JavierIH) on [Github](https://github.com/bq/zowi)
 
 # License 

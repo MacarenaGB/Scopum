@@ -2,8 +2,8 @@
 
 Scopum has been created by [HackLab UPM Bq](http://hacklabupm.bq.com/doku.php?id=start) 
 
-<img src="images/Scopum.PNG" width="500" align = "center">
-<img src="images/hacklab.png" width="300" align = "right">
+<img src="images/Scopum.PNG" width="500" >
+<img src="images/hacklab.png" width="300" >
 
 Original concept by [JavierIH](https://github.com/JavierIH) on [Github](https://github.com/bq/zowi)
 
